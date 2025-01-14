@@ -2,7 +2,7 @@ package algorithm;
 
 import java.util.Scanner;
 
-public class 자릿수구하기 {
+public class 자릿수더하기 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
